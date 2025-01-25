@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=GrimoireKernel
+kernel.string=Ccrlll
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=bhima
 device.name3=
 device.name4=
 device.name5=
-supported.versions=11.0-14.0
+supported.versions=11.0-15.0
 supported.patchlevels=
 '; } # end properties
 
