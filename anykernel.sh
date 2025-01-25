@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Ccrlll
+kernel.string=Ponkan™ by Ccrlll @xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
